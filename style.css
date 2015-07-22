@@ -1,0 +1,34 @@
+.mdl-card .mdl-card__title {
+    background-color: #8BC34A;
+}
+
+img {
+    width: 100%;
+}
+
+.mdl-card__media {
+    background-color: transparent;
+}
+
+.mdl-card__supporting-text {
+    padding: 3%;
+    width: 100%;
+}
+
+.mdl-card__actions {
+    position: absolute;
+    bottom: 0;
+}
+
+table {
+    width: 94%;
+}
+
+.mdl-grid {
+    margin-top: 4em;
+}
+
+.mdl-textfield {
+    width: 70%;
+    margin: 2% 5%;
+}
