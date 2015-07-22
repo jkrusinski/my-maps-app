@@ -62,7 +62,7 @@ $result = $db->query($sel);
     <body>
         <div class="mdl-grid">
             <div class="mdl-cell mdl-cell--2-col"></div>
-            <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--4-col">
+            <div class="mdl-card mdl-shadow--3dp mdl-cell mdl-cell--4-col">
                 <div class="mdl-card__title mdl-card--border"><h2 class="mdl-card__title-text">My Map</h2></div>
                 <div class="mdl-card__media mdl-card--border">
                     <img src="https://maps.googleapis.com/maps/api/staticmap?size=800x800&markers=
@@ -74,7 +74,7 @@ $result = $db->query($sel);
                 </div>
                 <div></div>
             </div>
-            <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--4-col">
+            <div class="mdl-card mdl-shadow--3dp mdl-cell mdl-cell--4-col">
                 <div class="mdl-card__title mdl-card--border"><h2 class="mdl-card__title-text">My Locations</h2></div>
                 <div class="mdl-card__supporting-text mdl-card--border">
                     <table class="mdl-data-table mdl-js-data-table">
